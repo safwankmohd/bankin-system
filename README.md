@@ -1,2 +1,2 @@
-# bankin-system
+# banking-system
 Online banking system
